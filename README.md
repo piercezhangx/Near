@@ -5,12 +5,11 @@ You can check challenges: https://github.com/near/stakewars-iii/blob/main/challe
 
 ## step one
 https://github.com/near/stakewars-iii/blob/main/challenges/001.md
-The first step is Create your Shardnet wallet & deploy the NEAR CLI
-
-I create the shardnet wallet with ID: omega.shardnet.near
-After create the wallet, I saw there are some tokens exist, I was surprised. Cause I thought I can swap to USDT.
+* The first step is Create your Shardnet wallet & deploy the NEAR CLI
+* I create the shardnet wallet with ID: omega.shardnet.near
+* After create the wallet, I saw there are some tokens exist, I was surprised. Cause I thought I can swap to USDT.
 ![image.png](wallet.png)
-But I soon notice that this is test-only wallet.
+* But I soon notice that this is test-only wallet.
 ![image.png](test-only.png)
 
 ## step two
@@ -23,12 +22,12 @@ https://github.com/near/stakewars-iii/blob/main/challenges/002.md
 
 ## step three
 https://github.com/near/stakewars-iii/blob/main/challenges/003.md
-I just follow the commands to deploy my staking pool, then I use below url can find my staking pool:
+* I just follow the commands to deploy my staking pool, then I use below url can find my staking pool:
 https://explorer.shardnet.near.org/nodes/validators
 ![image.png](stakingpool.png)
 
 ## step four
 https://github.com/near/stakewars-iii/blob/main/challenges/004.md
-This step is for some commands to check Validator node logs.
+* This step is for some commands to check Validator node logs.
 ![image.png](nearlog.png)
 
